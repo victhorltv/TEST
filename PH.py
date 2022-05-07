@@ -6,7 +6,7 @@ import argparse
 from urllib.request import Request, urlopen
 
 # This is the https://www.pornhub.com portion
-domain = 'https://fr.pornhubpremium.com/premium_signup?ats=eyJhIjoyNiwibiI6MywicyI6MiwiZSI6OTQxOCwicCI6NSwiY24iOiJWaWRQZy1wcmVtVmlkLWRlZmF1bHRfQzAwMF81Ml8wXzQyIn0%3D&join=52&pp=42&viewkey=ph621657d9d54a5'
+domain = 'https://www.pornhub.com'
 
 def get_args():
     parser = argparse.ArgumentParser(description='Comic File Web Scrapper')
